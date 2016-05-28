@@ -2,7 +2,7 @@
 <head>
 <style>
 table {
-    width:50%;
+    width:60%;
 }
 table, th, td {
     border: 1px solid black;
